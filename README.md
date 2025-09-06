@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umair Ahmed Bhutto</h1>
 <h3 align="center">A passionate Data Scientist from pakistan</h3>
 
-- 🔭 I’m currently working on **House Price Prediction**
+- 🔭 I’m currently working on **Scikit Learn & Machine Learning**
 
 - 🌱 I’m currently learning **Machine Learning**
 
